@@ -147,6 +147,6 @@ always       ship projects → break things → learn faster
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1b2a,100,00e5ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,00e5ff,50,0077b6,100,0d1b2a&height=100&section=footer" width="100%"/>
 
 </div>
