@@ -1,16 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Bhaskar%20Jha&fontSize=75&fontColor=00e5ff&fontAlignY=55&desc=Statistics%20·%20Data%20·%20Python&descAlignY=75&descSize=20&descFontColor=80deea&animation=twinkling&stroke=00e5ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,40:0d2137,70:0a3352,100:00e5ff&height=230&section=header&text=Bhaskar%20Jha&fontSize=72&fontColor=ffffff&fontAlignY=70&fontAlign=30&desc=Statistics%20·%20Data%20·%20Python&descAlignY=85&descAlign=30&descSize=18&descFontColor=80deea&animation=fadeIn&rotate=0" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=600&lines=Statistics+Undergraduate+%F0%9F%93%90;Building+Python+tools+from+statistical+theory;Aspiring+Data+Scientist+%F0%9F%A4%96;Always+shipping+—+one+model+at+a+time+%F0%9F%9A%80)](https://bhaskar21-7.github.io/Bhaskar-portfolio/)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&multiline=false&width=600&lines=📐+Statistics+Undergraduate+%40+India;🐍+Building+Python+tools+from+real+math;🤖+Aspiring+Data+Scientist;🚀+Always+shipping+—+one+model+at+a+time)](https://bhaskar21-7.github.io/Bhaskar-portfolio/)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-%F0%9F%8C%90%20OPEN%20LIVE%20PORTFOLIO-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00e5ff&labelColor=203a43)](https://bhaskar21-7.github.io/Bhaskar-portfolio/)
+[![Portfolio](https://img.shields.io/badge/-%F0%9F%8C%90%20OPEN%20LIVE%20PORTFOLIO-0a1628?style=for-the-badge&logo=googlechrome&logoColor=00e5ff&labelColor=0d2137)](https://bhaskar21-7.github.io/Bhaskar-portfolio/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/-bhaskar21--7-0f2027?style=for-the-badge&logo=github&logoColor=80deea&labelColor=203a43)](https://github.com/bhaskar21-7)
+[![GitHub](https://img.shields.io/badge/-bhaskar21--7-0a1628?style=for-the-badge&logo=github&logoColor=80deea&labelColor=0d2137)](https://github.com/bhaskar21-7)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-0f2027?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=203a43)](https://wa.me/917990719665)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-0a1628?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d2137)](https://wa.me/917990719665)
 
 </div>
 
@@ -42,33 +44,26 @@ bhaskar = {
 
 </div>
 
-<table>
-<tr>
-<td>
-
 ### 🧠 Memory Retention Predictor — Ebbinghaus Curve
 
 > *Real statistical theory applied to a real learning problem*
 
-**The Ebbinghaus Forgetting Curve** is a mathematical model of memory decay.  
-This tool uses that equation to tell you *exactly* when to revise — before you forget.
+**The Ebbinghaus Forgetting Curve** models how memory decays over time.  
+This tool tells you *exactly* when to revise — before you forget.
 
 ```python
 # Ebbinghaus Forgetting Curve
 R = math.exp(-t / S)
-# R = retention %  |  t = time  |  S = memory strength
+# R = retention %  |  t = time elapsed  |  S = memory strength
 ```
 
-**What it does:**
-- 📉 Calculates memory retention % at any point in time
-- 📅 Schedules optimal revision intervals automatically
-- 🎯 Maximises long-term recall using curve-fit statistics
+| Feature | How |
+|---|---|
+| 📉 Predicts memory retention % | Exponential decay formula |
+| 📅 Schedules optimal revision | Statistical interval calculation |
+| 🎯 Maximises long-term recall | Curve-fitted timing model |
 
-[![View on GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/bhaskar21-7/memory-retention-predictor)
-
-</td>
-</tr>
-</table>
+[![View on GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-0a1628?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0d2137)](https://github.com/bhaskar21-7/memory-retention-predictor)
 
 ---
 
@@ -76,32 +71,28 @@ R = math.exp(-t / S)
 
 ## ✦ &nbsp; Tech Stack &nbsp; ✦
 
-</div>
-
-<div align="center">
-
 **— Data & Analysis —**
 
-![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=00e5ff)
-![NumPy](https://img.shields.io/badge/NumPy-0f2027?style=for-the-badge&logo=numpy&logoColor=4fc3f7)
-![Pandas](https://img.shields.io/badge/Pandas-0f2027?style=for-the-badge&logo=pandas&logoColor=80deea)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0f2027?style=for-the-badge&logo=scikit-learn&logoColor=00e5ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0f2027?style=for-the-badge&logo=python&logoColor=4fc3f7)
+![Python](https://img.shields.io/badge/Python-0a1628?style=for-the-badge&logo=python&logoColor=00e5ff)
+![NumPy](https://img.shields.io/badge/NumPy-0a1628?style=for-the-badge&logo=numpy&logoColor=4fc3f7)
+![Pandas](https://img.shields.io/badge/Pandas-0a1628?style=for-the-badge&logo=pandas&logoColor=80deea)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a1628?style=for-the-badge&logo=scikit-learn&logoColor=00e5ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a1628?style=for-the-badge&logo=python&logoColor=4fc3f7)
 
 **— Frontend & Deployment —**
 
-![HTML5](https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=00e5ff)
-![CSS3](https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=80deea)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=4fc3f7)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0f2027?style=for-the-badge&logo=github&logoColor=00e5ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0f2027?style=for-the-badge&logo=jupyter&logoColor=80deea)
-![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=4fc3f7)
+![HTML5](https://img.shields.io/badge/HTML5-0a1628?style=for-the-badge&logo=html5&logoColor=00e5ff)
+![CSS3](https://img.shields.io/badge/CSS3-0a1628?style=for-the-badge&logo=css3&logoColor=80deea)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a1628?style=for-the-badge&logo=javascript&logoColor=4fc3f7)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0a1628?style=for-the-badge&logo=github&logoColor=00e5ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a1628?style=for-the-badge&logo=jupyter&logoColor=80deea)
+![Git](https://img.shields.io/badge/Git-0a1628?style=for-the-badge&logo=git&logoColor=4fc3f7)
 
 **— Learning Next —**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f2027?style=for-the-badge&logo=tensorflow&logoColor=00e5ff)
-![PyTorch](https://img.shields.io/badge/PyTorch-0f2027?style=for-the-badge&logo=pytorch&logoColor=80deea)
-![SQL](https://img.shields.io/badge/SQL-0f2027?style=for-the-badge&logo=postgresql&logoColor=4fc3f7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a1628?style=for-the-badge&logo=tensorflow&logoColor=00e5ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1628?style=for-the-badge&logo=pytorch&logoColor=80deea)
+![SQL](https://img.shields.io/badge/SQL-0a1628?style=for-the-badge&logo=postgresql&logoColor=4fc3f7)
 
 </div>
 
@@ -113,17 +104,17 @@ R = math.exp(-t / S)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhaskar21-7&show_icons=true&hide_border=true&bg_color=0f2027&title_color=00e5ff&icon_color=4fc3f7&text_color=80deea&ring_color=00e5ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bhaskar21-7&show_icons=true&hide_border=true&bg_color=07090f&title_color=00e5ff&icon_color=4fc3f7&text_color=80deea" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar21-7&layout=compact&hide_border=true&bg_color=0f2027&title_color=00e5ff&text_color=80deea" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar21-7&layout=compact&hide_border=true&bg_color=07090f&title_color=00e5ff&text_color=80deea" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar21-7&hide_border=true&background=0f2027&stroke=00e5ff&ring=00e5ff&fire=4fc3f7&currStreakLabel=00e5ff&sideLabels=80deea&dates=4fc3f7&sideNums=00e5ff" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar21-7&hide_border=true&background=07090f&stroke=00e5ff&ring=00e5ff&fire=4fc3f7&currStreakLabel=00e5ff&sideLabels=80deea&dates=4fc3f7&sideNums=00e5ff" width="55%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar21-7&bg_color=0f2027&color=00e5ff&line=4fc3f7&point=80deea&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar21-7&bg_color=07090f&color=00e5ff&line=4fc3f7&point=80deea&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -160,7 +151,7 @@ R = math.exp(-t / S)
                  ↳ Probability · Sampling Distributions · Statistical Inference
                  ↳ Translating classroom theory into shipped projects
 
-◈  ALWAYS        Self-Driven Exploration
+◈  ALWAYS        Self-Driven
                  ↳ ship projects → break things → learn faster
 ```
 
@@ -172,10 +163,9 @@ R = math.exp(-t / S)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00e5ff&labelColor=203a43)](https://bhaskar21-7.github.io/Bhaskar-portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-0a1628?style=for-the-badge&logo=googlechrome&logoColor=00e5ff&labelColor=0d2137)](https://bhaskar21-7.github.io/Bhaskar-portfolio/)
 &nbsp;
-&nbsp;
-[![Location](https://img.shields.io/badge/📍%20Vadodara,%20India-0f2027?style=for-the-badge&logoColor=80deea&labelColor=203a43)](https://github.com/bhaskar21-7)
+[![Location](https://img.shields.io/badge/📍%20Vadodara,%20India-0a1628?style=for-the-badge&labelColor=0d2137&logoColor=80deea)](https://github.com/bhaskar21-7)
 
 <br/>
 
@@ -183,6 +173,6 @@ R = math.exp(-t / S)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&fontColor=00e5ff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00e5ff,60:0a3352,100:0f2027&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
