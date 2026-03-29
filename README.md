@@ -130,7 +130,6 @@ ALWAYS        Self-Driven
 **Open to collaborations, internships & conversations about statistics and data.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-f4622a?style=for-the-badge)](https://bhaskar21-7.github.io/Bhaskar-portfolio/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917990719665)
 [![Location](https://img.shields.io/badge/📍_Vadodara,_India-333?style=for-the-badge)](https://github.com/bhaskar21-7)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhaskar21-7&color=f4622a&style=flat-square&label=Profile+Views)
