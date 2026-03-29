@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=560&height=60&lines=📐+Probability+%7C+Sampling+%7C+Inference;🐍+Python+%7C+Pandas+%7C+scikit-learn;🚀+Ship+projects+→+break+things+→+learn+faster)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&height=30&lines=📐+Probability+·+Sampling+·+Inference;🐍+Python+·+Pandas+·+scikit-learn;🚀+Ship+·+Break+·+Learn+faster)](https://git.io/typing-svg)
 
 <br/>
 
@@ -108,7 +108,7 @@ raw_data → clean → analyse → visualise
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar21-7&hide_border=true&background=00000000&stroke=444&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=aaa&dates=888&sideNums=ffffff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar21-7&hide_border=true&background=00000000&stroke=444&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&currStreakNum=ffffff&sideLabels=aaa&dates=888&sideNums=ffffff" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar21-7&layout=compact&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=ffffff" width="38%"/>
 
 <br/>
@@ -147,6 +147,6 @@ always       ship projects → break things → learn faster
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0,00e5ff,40,0077b6,80,0d1b2a&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1b2a,100,00e5ff&height=100&section=footer" width="100%"/>
 
 </div>
