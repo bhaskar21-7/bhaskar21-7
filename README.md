@@ -6,17 +6,11 @@
 
 <div align="center">
 
-<br/>
-
-# Bhaskar Jha
-
-**`Statistics · Data Science · Python`**
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0,0d1b2a,30,0077b6,70,00e5ff&height=200&section=header&text=Bhaskar%20Jha&fontSize=60&fontColor=ffffff&fontAlignY=65&rotate=-6&desc=Statistics%20·%20Data%20Science%20·%20Python&descSize=18&descAlignY=82&descFontColor=aaeeff" width="100%"/>
 
 <br/>
 
-*B.Sc. Statistics undergraduate — building analytical tools,*
-*applying statistical thinking to real-world problems.*
-*Self-driven. Always shipping.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=560&height=60&lines=📐+Probability+%7C+Sampling+%7C+Inference;🐍+Python+%7C+Pandas+%7C+scikit-learn;🚀+Ship+projects+→+break+things+→+learn+faster)](https://git.io/typing-svg)
 
 <br/>
 
@@ -150,5 +144,9 @@ always       ship projects → break things → learn faster
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=bhaskar21-7&color=00e5ff&style=flat-square&label=profile+views)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0,00e5ff,40,0077b6,80,0d1b2a&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
