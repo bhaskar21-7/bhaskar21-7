@@ -12,7 +12,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/-bhaskar21--7-0a1628?style=for-the-badge&logo=github&logoColor=80deea&labelColor=0d2137)](https://github.com/bhaskar21-7)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-0a1628?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d2137)](https://wa.me/917990719665)
+
 
 </div>
 
