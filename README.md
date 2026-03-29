@@ -1,25 +1,28 @@
+<!--
+  ╔══════════════════════════════════════════════╗
+  ║          BHASKAR JHA · GITHUB PROFILE        ║
+  ╚══════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:1a3a4a,100:00e5ff&height=160&section=header&text=Bhaskar%20Jha&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=Statistics%20%C2%B7%20Data%20%C2%B7%20Python&descAlignY=80&descSize=16&descFontColor=80deea&animation=blinking" width="100%"/>
+<br/>
+
+# Bhaskar Jha
+
+**`Statistics · Data Science · Python`**
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=🚀+Building+Python+tools+from+real+math;📐+B.Sc.+Statistics+%7C+Vadodara%2C+India;🤖+Aspiring+Data+Scientist;📊+Ship+projects.+Learn+faster.)](https://bhaskar21-7.github.io/Bhaskar-portfolio/)
+*B.Sc. Statistics undergraduate — building analytical tools,*
+*applying statistical thinking to real-world problems.*
+*Self-driven. Always shipping.*
 
 <br/>
 
-<a href="https://bhaskar21-7.github.io/Bhaskar-portfolio/">
-  <img src="https://img.shields.io/badge/⚡_OPEN_MY_PORTFOLIO-00e5ff?style=for-the-badge&logoColor=0f2027&labelColor=0f2027&color=00e5ff" height="38"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/bhaskar21-7">
-  <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00e5ff" height="38"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bhaskar-jha-50838431a">
-  <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=4fc3f7" height="38"/>
-</a>
-&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logoColor=white)](https://bhaskar21-7.github.io/Bhaskar-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaskar21-7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-jha-50838431a)
 
 </div>
 
@@ -27,69 +30,58 @@
 
 ---
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=bhaskar21-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=4fc3f7&text_color=80deea&hide_title=false&rank_icon=github"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bhaskar21-7&show_icons=true&hide_border=true&bg_color=00000000&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&hide_title=true&rank_icon=github&include_all_commits=true" width="380"/>
 
-### `> whoami`
+### About
 
-```python
-{
-  "name"     : "Bhaskar Jha",
-  "degree"   : "B.Sc. Statistics (2027)",
-  "location" : "Vadodara, India 📍",
-  "focus"    : "Data · ML · Python",
-  "status"   : "Always building 🚀"
-}
-```
+- 📐 Studying **Probability, Sampling & Statistical Inference**
+- 🐍 Building tools in **Python** — pandas, NumPy, scikit-learn
+- 🌐 Deployed portfolio on **GitHub Pages**
+- 🔭 Currently exploring **Machine Learning** fundamentals
+- 💡 Belief: ship projects, learn faster
 
-### `> currently`
+<br/>
 
-- 🔭 Building statistical tools in Python
-- 📚 Studying probability & inference
-- 🌱 Learning ML fundamentals
-- 💡 Bridging theory → shipped projects
+### Location
+
+📍 Vadodara, Gujarat, India
 
 <br clear="right"/>
 
 ---
 
-<div align="center">
-
-### `>_ featured project`
-
-</div>
+### Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 **🧠 Memory Retention Predictor**
 
-Uses the **Ebbinghaus Forgetting Curve** — a real mathematical model of memory decay — to predict exactly when you'll forget something and schedule optimal revision timing.
+Implements the **Ebbinghaus Forgetting Curve** to predict memory decay and schedule optimal revision timing using exponential decay mathematics.
 
 ```python
-R = math.exp(-t / S)
-# R=retention | t=time | S=strength
+R = e^(−t/S)
+# retention | time | strength
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-0f2027?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/bhaskar21-7/memory-retention-predictor)
-![Python](https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=00e5ff)
-![Statistics](https://img.shields.io/badge/Statistics-0f2027?style=flat-square&logoColor=80deea)
+[![](https://img.shields.io/badge/View_Repo-00e5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/bhaskar21-7/memory-retention-predictor)
+`Python` `Statistics` `Math`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 **📊 Sales Analytics System**
 
-End-to-end data pipeline: raw CRM exports → Python cleaning → feature engineering → interactive HTML dashboard with charts and KPIs.
+End-to-end pipeline: raw CRM data → Python cleaning → feature engineering → interactive dashboard with live KPIs and charts.
 
 ```python
-# 3,328 records → cleaned → visualised
-pipeline = clean → analyse → dashboard
+raw_data → clean → analyse → visualise
+# 3,328 records processed
 ```
 
-[![Repo](https://img.shields.io/badge/View_Repo-0f2027?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/bhaskar21-7/sales-analytics)
-![Python](https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=00e5ff)
-![HTML](https://img.shields.io/badge/HTML-0f2027?style=flat-square&logo=html5&logoColor=4fc3f7)
+[![](https://img.shields.io/badge/View_Repo-00e5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/bhaskar21-7/sales-analytics)
+`Python` `Pandas` `HTML/CSS`
 
 </td>
 </tr>
@@ -97,57 +89,66 @@ pipeline = clean → analyse → dashboard
 
 ---
 
-<div align="center">
+### Tech Stack
 
-### `>_ tech stack`
+<div align="left">
 
-![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=00e5ff)
-![NumPy](https://img.shields.io/badge/NumPy-0f2027?style=for-the-badge&logo=numpy&logoColor=4fc3f7)
-![Pandas](https://img.shields.io/badge/Pandas-0f2027?style=for-the-badge&logo=pandas&logoColor=80deea)
-![scikit-learn](https://img.shields.io/badge/sklearn-0f2027?style=for-the-badge&logo=scikit-learn&logoColor=00e5ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0f2027?style=for-the-badge&logo=jupyter&logoColor=4fc3f7)
-
-![HTML5](https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=00e5ff)
-![CSS3](https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=80deea)
-![JavaScript](https://img.shields.io/badge/JS-0f2027?style=for-the-badge&logo=javascript&logoColor=4fc3f7)
-![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=00e5ff)
-![GitHub Pages](https://img.shields.io/badge/GH_Pages-0f2027?style=for-the-badge&logo=github&logoColor=80deea)
-
-</div>
-
----
-
-<div align="center">
-
-### `>_ github stats`
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar21-7&hide_border=true&background=0d1117&stroke=00e5ff&ring=00e5ff&fire=4fc3f7&currStreakLabel=00e5ff&sideLabels=80deea&dates=4fc3f7&sideNums=00e5ff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar21-7&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=80deea" width="38%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar21-7&bg_color=0d1117&color=00e5ff&line=4fc3f7&point=ffffff&area_color=00e5ff&area=true&hide_border=true" width="96%"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
+### GitHub Stats
+
 <div align="center">
 
-```
-◈  2024 → NOW   shipped Memory Retention Predictor · Sales Analytics · Portfolio
-◈  ONGOING      B.Sc. Statistics · Probability · Inference · ML fundamentals  
-◈  ALWAYS       ship projects → break things → learn faster
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar21-7&hide_border=true&background=00000000&stroke=444&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=aaa&dates=888&sideNums=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar21-7&layout=compact&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=ffffff" width="38%"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhaskar21-7&color=00e5ff&style=flat-square&label=profile+views)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/bhaskar21-7?color=00e5ff&style=flat-square&logo=github&label=followers)](https://github.com/bhaskar21-7)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar21-7&bg_color=00000000&color=00e5ff&line=00e5ff&point=ffffff&area_color=00e5ff20&area=true&hide_border=true&custom_title=Contribution+Graph" width="96%"/>
+
+</div>
+
+---
+
+### Timeline
+
+```
+2024 → now   Building independently
+             · Memory Retention Predictor (Ebbinghaus + Python)
+             · Sales Analytics System (pipeline + dashboard)
+             · Open source contributions via fork-PR workflow
+             · Live portfolio deployed on GitHub Pages
+
+ongoing      B.Sc. Statistics — India (graduating 2027)
+             · Probability · Sampling Distributions · Inference
+             · Translating theory into real projects
+
+always       ship projects → break things → learn faster
+```
+
+---
+
+<div align="center">
+
+*Open to collaborations, internships, and conversations about data and statistics.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00e5ff,100:0f2027&height=80&section=footer&reversal=true" width="100%"/>
+![](https://komarev.com/ghpvc/?username=bhaskar21-7&color=00e5ff&style=flat-square&label=profile+views)
 
 </div>
