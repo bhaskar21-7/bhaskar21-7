@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0,0d1b2a,30,0077b6,70,00e5ff&height=200&section=header&text=Bhaskar%20Jha&fontSize=60&fontColor=ffffff&fontAlignY=65&rotate=-6&desc=Statistics%20·%20Data%20Science%20·%20Python&descSize=18&descAlignY=82&descFontColor=aaeeff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0,010e1a,40,012a45,70,0077b6,100,00e5ff&height=200&section=header&text=Bhaskar%20Jha&fontSize=60&fontColor=ffffff&fontAlignY=65&desc=Statistics%20·%20Data%20Science%20·%20Python&descSize=18&descAlignY=82&descFontColor=aaeeff" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&height=30&lines=📐+Probability+·+Sampling+·+Inference;🐍+Python+·+Pandas+·+scikit-learn;🚀+Ship+·+Break+·+Learn+faster)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=560&height=60&lines=📐+Probability+%7C+Sampling+%7C+Inference;🐍+Python+%7C+Pandas+%7C+scikit-learn;🚀+Ship+projects+→+break+things+→+learn+faster)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhaskar21-7&show_icons=true&hide_border=true&bg_color=00000000&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&hide_title=true&rank_icon=github&include_all_commits=true" width="380"/>
 
-### About
+### 🌊 About
 
 - 📐 Studying **Probability, Sampling & Statistical Inference**
 - 🐍 Building tools in **Python** — pandas, NumPy, scikit-learn
@@ -36,15 +36,15 @@
 
 <br/>
 
-### Location
+### 📍 Location
 
-📍 Vadodara, Gujarat, India
+Vadodara, Gujarat, India
 
 <br clear="right"/>
 
 ---
 
-### Featured Projects
+### 🪸 Featured Projects
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ raw_data → clean → analyse → visualise
 
 ---
 
-### Tech Stack
+### 🐚 Tech Stack
 
 <div align="left">
 
@@ -104,22 +104,22 @@ raw_data → clean → analyse → visualise
 
 ---
 
-### GitHub Stats
+### 🌊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar21-7&hide_border=true&background=00000000&stroke=444&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&currStreakNum=ffffff&sideLabels=aaa&dates=888&sideNums=ffffff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar21-7&hide_border=true&background=00000000&stroke=0077b6&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=aaeeff&dates=6699aa&sideNums=ffffff" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar21-7&layout=compact&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=ffffff" width="38%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar21-7&bg_color=00000000&color=00e5ff&line=00e5ff&point=ffffff&area_color=00e5ff20&area=true&hide_border=true&custom_title=Contribution+Graph" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar21-7&bg_color=00000000&color=00e5ff&line=0077b6&point=00e5ff&area_color=00e5ff20&area=true&hide_border=true&custom_title=Contribution+Graph" width="96%"/>
 
 </div>
 
 ---
 
-### Timeline
+### 🗺️ Timeline
 
 ```
 2024 → now   Building independently
@@ -147,6 +147,6 @@ always       ship projects → break things → learn faster
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,00e5ff,50,0077b6,100,0d1b2a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0,00e5ff,50,0077b6,100,010e1a&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
