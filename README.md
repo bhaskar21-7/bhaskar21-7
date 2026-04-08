@@ -51,12 +51,11 @@ bhaskar = {
 
 | 🚀 Project | 📋 Description | 🔧 Stack | 🔗 |
 |:---|:---|:---|:---:|
-| **MNEMO** | Memory Retention Predictor using Ebbinghaus Forgetting Curve — adaptive per-topic decay rates & optimal revision scheduling | Python · Streamlit · Plotly | [→](https://github.com/bhaskar21-7/memory-retention-predictor) |
-| **DataSense** | Client-side EDA web tool — upload CSV, get full statistical analysis instantly. Zero backend, 100% browser | Vanilla JS · HTML · Statistics | [→](https://github.com/bhaskar21-7) |
-| **FORGE** | Gamified no-equipment fitness planner with XP-based leveling system | HTML · CSS · JS | [→](https://github.com/bhaskar21-7) |
-| **NexusSales** | End-to-end sales analytics dashboard + Jupyter notebook | Python · Pandas · Plotly · Jupyter | [→](https://github.com/bhaskar21-7) |
-| **Bhaskar Life OS** | Single-file daily planner with dual XP leveling — Life tasks + IIT JAM study tracker | HTML · CSS · JS | [→](https://github.com/bhaskar21-7) |
-| **Expense Tracker** | Smart expense tracker with Plotly charts and AI-powered spending insights | Python · Streamlit · Plotly | [→](https://github.com/bhaskar21-7) |
+| **Memory Retention Predictor** | Predicts when you'll forget learned material & suggests optimal revision timing using the Ebbinghaus forgetting curve | HTML · Python · Statistics | [→](https://github.com/bhaskar21-7/memory-retention-predictor) |
+| **DataSense** | Client-side EDA tool — drop a CSV, get correlations, outliers, distributions & a baseline ML model. No server, no install, no data upload | HTML · Vanilla JS · ML | [→](https://github.com/bhaskar21-7/datasense) |
+| **AirCanvas Pro** | Computer vision app that lets users draw in the air using hand gestures and a webcam | Python · OpenCV · MediaPipe | [→](https://github.com/bhaskar21-7/aircanvas-pro) |
+| **Sales Analytics** | End-to-end sales analytics dashboard with interactive charts and business insights | HTML · JS · Data Viz | [→](https://github.com/bhaskar21-7/sales-analytics) |
+| **Bhaskar Portfolio** | Personal portfolio showcasing statistics, Python projects, and data analysis work | HTML · CSS · JS | [→](https://github.com/bhaskar21-7/Bhaskar-portfolio) |
 
 </div>
 
