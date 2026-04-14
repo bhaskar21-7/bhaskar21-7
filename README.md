@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=200&section=header&text=Bhaskar%20Jha&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Statistics%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Explorer&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
