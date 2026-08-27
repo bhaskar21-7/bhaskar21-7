@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "Bayesian-Sentinel",
+      "description": "AI-powered cybersecurity threat detection combining Bayesian risk modeling, statistical learning, and generative AI for explainable threat analysis."
+    },
+    {
+      "repo": "CineMetrix",
+      "description": "Netflix content analytics — Python EDA, chi-square independence testing, and interactive Power BI dashboards."
+    },
+    {
+      "repo": "datamorph",
+      "description": "A composable data transformation library with a Python core and Node.js CLI — build pipelines, not one-off scripts."
+    },
+    {
+      "repo": "IPL-Batter-Archetype-Analytics",
+      "description": "Clusters IPL batters into playing-style archetypes using performance metrics, visualized in Power BI."
+    }
+  ]
+}
