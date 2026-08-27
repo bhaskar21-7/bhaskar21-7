@@ -14,6 +14,8 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    environment:
+      name: production
     steps:
       # ------------------------------------------------------------------ #
       # The 3D isometric contribution calendar (the one from the inspo)
