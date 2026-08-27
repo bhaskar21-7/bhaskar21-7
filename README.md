@@ -14,7 +14,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/bhaskar21-7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Bhaskar;B.Sc.+Statistics+%40+MSU+Baroda;Cracking+IIT+JAM+2027;01110011+01110100+01100001+01110100+01110011" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Bhaskar+Jha;B.Sc.+Statistics+%40+MSU+Baroda;01110011+01110100+01100001+01110100+01110011" alt="typing banner">
 </a>
 
 <br>
@@ -36,11 +36,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Bhaskar Jha**. B.Sc. Statistics student at MSU Baroda, currently prepping for
-**IIT JAM Mathematical Statistics 2027**. I build data projects at the intersection of
-statistics, ML, and whatever problem is in front of me — cricket analytics and quant
-finance are the threads that keep coming back.
-
+Hi, I'm **Bhaskar Jha**. B.Sc. Statistics student at MSU Baroda. I build data projects at the intersection of statistics, ML, and whatever problem is in front of me — cricket analytics and quant finance are the threads that keep coming back.
 
 - On the Academic Team of my department's **Departmental Statistical Association (DSA)**
 - Fun fact: **cricket analytics and quant finance are where most of my side projects end up**
