@@ -36,14 +36,13 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Bhaskar**. B.Sc. Statistics student at MSU Baroda, currently prepping for
+Hi, I'm **Bhaskar Jha**. B.Sc. Statistics student at MSU Baroda, currently prepping for
 **IIT JAM Mathematical Statistics 2027**. I build data projects at the intersection of
 statistics, ML, and whatever problem is in front of me — cricket analytics and quant
 finance are the threads that keep coming back.
 
-- Currently prepping for **IIT JAM Mathematical Statistics 2027**
+
 - On the Academic Team of my department's **Departmental Statistical Association (DSA)**
-- GSoC 2025 alum
 - Fun fact: **cricket analytics and quant finance are where most of my side projects end up**
 
 <br>
